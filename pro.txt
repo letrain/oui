@@ -3,3 +3,6 @@ Main(){
 }
 
 test发生的发生
+
+
+method{good day}
