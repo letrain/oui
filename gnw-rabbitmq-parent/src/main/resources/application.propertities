@@ -1,0 +1,4 @@
+rabbitmq.host=127.0.15.1
+rabbitmq.port=3354
+rabbitmq.username=oui
+rabbitmq.password=123456
